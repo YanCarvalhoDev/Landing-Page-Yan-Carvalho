@@ -39,7 +39,7 @@ const Footer = () => {
                 },
                 {
                   icon: Linkedin,
-                  href: "https://www.linkedin.com/in/yan-a-carvalho/",
+                  href: "https://www.linkedin.com/in/yancarvalhodev/",
                   label: "LinkedIn",
                 },
                 {
