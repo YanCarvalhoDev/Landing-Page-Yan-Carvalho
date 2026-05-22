@@ -1,0 +1,28 @@
+# robots.txt perfeito para SEO tradicional e indexação em Inteligências Artificiais (AIO)
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# Permitir explicitamente rastreadores de modelos de IA e ferramentas de busca inteligente (ChatGPT, Claude, Gemini, Perplexity)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: applebot-extended
+Allow: /
+
+# Parâmetros gerais de rastreamento
+Host: https://www.yancarvalhodev.com.br
+Sitemap: https://www.yancarvalhodev.com.br/sitemap-index.xml
+

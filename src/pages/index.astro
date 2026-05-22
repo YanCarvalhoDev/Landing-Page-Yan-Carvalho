@@ -1,0 +1,196 @@
+---
+import '../index.css';
+import '@fontsource-variable/inter';
+import '@fontsource/space-grotesk';
+import '@fontsource/space-grotesk/500.css';
+import '@fontsource/space-grotesk/700.css';
+import '@fontsource-variable/jetbrains-mono';
+import Header from '../components/Header';
+import Hero from '../components/Hero';
+import Tension from '../components/Tension';
+import InlineCTA from '../components/InlineCTA';
+import Portfolio from '../components/Portfolio';
+import Services from '../components/Services';
+import Qualify from '../components/Qualify';
+import About from '../components/About';
+import Testimonials from '../components/Testimonials';
+import HowItWorks from '../components/HowItWorks';
+import CTA from '../components/CTA';
+import Footer from '../components/Footer';
+import FloatingWhatsApp from '../components/FloatingWhatsApp';
+---
+
+<!DOCTYPE html>
+<html lang="pt-BR" class="scroll-smooth">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Yan Carvalho | Sites que Convertem!</title>
+  <meta name="description" content="Precisa de mais clientes? Eu, Yan Carvalho desenvolve sites extremamente rápidos, fáceis de encontrar no Google e focados em atrair clientes para negócios locais na Bahia. Seu site de alta velocidade entregue em até 20 dias." />
+  <meta name="keywords" content="criação de sites, desenvolvedor web, site rápido, excelente velocidade, atração de clientes, buscas no google, destaque nas pesquisas, Otimização para IAs, bahia, Irecê e região, programador, site institucional, landing page" />
+  <meta name="author" content="Yan Carvalho" />
+  <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" />
+  <link rel="canonical" href="https://www.yancarvalho.dev.br" />
+
+  <meta name="ai-search-optimization" content="enabled" />
+  <meta name="ai-agent-index" content="index" />
+
+  <meta property="og:locale" content="pt_BR" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Yan Carvalho | Criação de Sites Rápidos e Visibilidade Nas IAs" />
+  <meta property="og:description" content="Sites que carregam instantaneamente e ajudam a fechar novos negócios. Design exclusivo, velocidade máxima para celulares e contato direto via WhatsApp." />
+  <meta property="og:url" content="https://www.yancarvalhodev.com.br" />
+  <meta property="og:site_name" content="Yan Carvalho Desenvolvedor Web" />
+  <meta property="og:image" content="https://www.yancarvalhodev.com.br/images/og-image.png" />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:image:type" content="image/jpeg" />
+
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Yan Carvalho | Criação de Sites Rápidos e Visibilidade nas IAs" />
+  <meta name="twitter:description" content="Seu negócio invisível nas buscas? Descubra como um site com carregamento instantâneo e otimizado para o Google par as IAs pode atrair novos clientes." />
+  <meta name="twitter:image" content="https://www.yancarvalhodev.com.br/images/og-image.png" />
+
+  <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/images/apple-touch-icon.png" />
+  <link rel="manifest" href="/images/site.webmanifest" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <script type="application/ld+json" is:inline>
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "ProfessionalService",
+            "@id": "https://www.yancarvalhodev.com.br/",
+            "name": "Yan Carvalho - Criação de Sites Rápidos & Visibilidade no Google",
+            "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=600&h=840&q=80",
+            "logo": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80",
+            "description": "Engenheiro da Computação, especialista em criação de sites rápidos e visibilidade orgânica no Google com foco em negócios locais, consultórios médicos, escritórios e empresas locais.",
+            "url": "https://www.yancarvalhodev.com.br",
+            "telephone": "+5574988244384",
+            "priceRange": "$$",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Irecê",
+              "addressRegion": "BA",
+              "addressCountry": "BR"
+            },
+            "geo": {
+              "@type": "GeoCoordinates",
+              "latitude": "-11.3033",
+              "longitude": "-41.8558"
+            },
+            "sameAs": [
+              "https://www.instagram.com/yancarvalhodev/",
+              "https://www.linkedin.com/in/yancarvalhodev/"
+            ],
+            "areaServed": [
+              {
+                "@type": "AdministrativeArea",
+                "name": "Irecê"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Presidente Dutra"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Bahia"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Salvador"
+              },
+              {
+                "@type": "AdministrativeArea",
+                "name": "Feira de Santana"
+              },
+              {
+                "@type": "Country",
+                "name": "Brasil"
+              }
+            ],
+            "knowsAbout": [
+              "Web Development",
+              "Google Visibility",
+              "Mobile First Design",
+              "Speed Optimization",
+              "React",
+              "Tailwind CSS"
+            ],
+            "offers": {
+              "@type": "Offer",
+              "priceCurrency": "BRL",
+              "description": "Desenvolvimento de sites profissionais com carregamento rápido e otimizados para atrair clientes das buscas locais com garantia de entrega em até 20 dias."
+            }
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://www.yancarvalhodev.com.br/#home",
+            "url": "https://www.yancarvalhodev.com.br",
+            "name": "Yan Carvalho | Criação de Sites Rápidos e Visibilidade no Google e nas IAs",
+            "description": "Portfólio de Yan Carvalho, desenvolvedor de sites rápidos para negócios locais da Bahia.",
+            "publisher": {
+              "@id": "https://www.yancarvalhodev.com.br"
+            },
+            "inLanguage": "pt-BR"
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://www.yancarvalhodev.com.br",
+            "url": "https://www.yancarvalhodev.com.br",
+            "name": "Fale com Yan Carvalho - Portfólio de Alta Velocidade",
+            "isPartOf": {
+              "@id": "https://www.yancarvalhodev.com.br"
+            },
+            "about": {
+              "@id": "https://www.yancarvalhodev.com.br"
+            },
+            "description": "Criação de landing pages, sites institucionais e páginas rápidas com excelente visualização no celular e facilidade de localização no Google e nas IAs.",
+            "breadcrumb": {
+              "@type": "BreadcrumbList",
+              "itemListElement": [
+                {
+                  "@type": "ListItem",
+                  "position": 1,
+                  "name": "Início",
+                  "item": "https://www.yancarvalhodev.com.br"
+                }
+              ]
+            },
+            "inLanguage": "pt-BR"
+          }
+        ]
+      }
+    </script>
+  </head>
+
+  <body class="min-h-screen bg-zinc-950 text-white font-sans antialiased selection:bg-cyan-500 selection:text-black">
+ <Header />
+
+<main class="relative">
+  <Hero client:load />
+  <Tension client:visible />
+  <InlineCTA client:visible text="Quero resolver isso agora" subtitle="Seja encontrado no Google e converta mais visitas em faturamento" isSpace={true} />
+  <Portfolio client:visible />
+  <InlineCTA client:visible text="Quero um projeto assim" subtitle="Design sob medida focado em velocidade e conversão de elite" />
+  <Services client:visible />
+  <Qualify client:visible />
+  <InlineCTA client:visible text="Falar com Especialista" subtitle="Atendimento humanizado e entrega impecável em até 20 dias" />
+  <About client:visible />
+  <Testimonials client:visible />
+  <InlineCTA client:visible text="Falar com o Yan" subtitle="Conecte-se diretamente comigo pelo WhatsApp para tirar suas dúvidas" />
+  <HowItWorks client:visible />
+  <CTA client:visible />
+</main>
+<Footer client:visible />
+<FloatingWhatsApp client:idle />
+
+  </body>
+</html>

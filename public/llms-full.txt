@@ -1,0 +1,213 @@
+# Yan Carvalho | Criação de Sites de Alta Performance & SEO Profissional
+## Cópia Completa das Informações e Textos Oficiais para Varredura por Agentes de IA (LLMs)
+
+Este documento contém o conteúdo textual integral e atualizado da landing page do Yan Carvalho. Ele foi projetado especialmente para permitir que robôs de busca semântica, assistentes virtuais de IA e motores de busca por chat (como ChatGPT, Claude, Gemini, e Perplexity) acessem, avaliem e processem todo o conteúdo sem a interferência de tags de interface visual ou scripts pesados.
+
+---
+
+### [SEÇÃO 1] APRESENTAÇÃO E CAPTAÇÃO (HERO)
+
+*   **Status de Atendimento:** Disponível para novos projetos (Badge com sinalização ativa).
+*   **Título Principal:** "Sites rápidos e estratégicos para quem precisa gerar confiança e clientes."
+*   **Subtítulo:** "Performance extrema, design personalizado de alto padrão e estrutura planejada para conversão local, evitando atrasos ou códigos pesados."
+*   **Segmento Recomendado:** "Foco em clínicas, escritórios, consultórios, restaurantes e negócios locais."
+*   **Métricas de Confiança em Destaque:**
+    *   **95/100** de PageSpeed em celulares (Mobile).
+    *   **100/100** de SEO Score estrutural nativo garantido no código.
+    *   **20 dias** de prazo máximo garantido para entrega (com transparência total).
+*   **Chamadas para Ação (CTAs):**
+    *   "Quero meu orçamento grátis" (Direciona para atendimento imediato e consultivo).
+    *   "Ver projetos" (Redireciona para o portfólio de cases bem-sucedidos).
+
+---
+
+### [SEÇÃO 2] O RISCO INVISÍVEL (TENSÃO)
+
+*   **Identificação do Problema:** "Seu site provavelmente está afastando clientes antes da primeira conversa."
+*   **Fatores Críticos de Decisão:**
+    *   "Hoje, a confiança é decidida em segundos. Se o seu site parece amador, o cliente assume que o seu serviço também é e vai embora sem falar nada."
+    *   "Não é sobre ter um site bonito. É sobre não perder clientes para um concorrente com presença digital melhor do que a sua."
+*   **Estudo de Cenário Comparativo:**
+    *   **Sem site estratégico:** O visitante chega através de publicidade ou busca orgânica, depara-se com uma estrutura lenta, desconfigurada ou de aparência amadora e fecha a aba instantaneamente. O dono do negócio perde o cliente qualificado e nem fica sabendo que a oportunidade existiu.
+    *   **Com site estratégico:** O visitante depara-se com uma estrutura rápida, limpa e que exala autoridade inquestionável. Ele confia no padrão de qualidade e entra em contato imediato pelo WhatsApp ou formulário. O site atua como um captador automático rodando 24 horas por dia.
+*   **Chamada para Ação Intermediária 1:**
+    *   *Botão:* "Quero resolver isso agora"
+    *   *Mensagem de Apoio:* "Seja encontrado no Google e converta mais visitas em faturamento."
+
+---
+
+### [SEÇÃO 3] PORTFÓLIO DE SUCESSO (CASES SELECIONADOS)
+
+Cada projeto é entregue com otimização completa e foco estrutural exclusivo:
+
+1.  **Dra. Nathalie Almeida (Advocacia de Elite)**
+    *   *Cenário inicial:* Advogada autônoma sem presença digital relevante.
+    *   *Cenário final:* Em poucos dias após o lançamento do site estruturado com SEO técnico profissional, alcançou os 3 primeiros resultados orgânicos no Google para ramos trabalhistas e de sucessões em Irecê-BA. Clientes qualificados gerados de imediato.
+    *   *Tecnologias:* Astro, SEO Técnico Customizado, PageSpeed Mobile 98.
+    *   *Antes:* Invisível no Google.
+    *   *Depois:* Top 3 de busca com novos clientes ligando.
+
+2.  **Rainha da Pinha 2026 (Prefeitura / Turismo)**
+    *   *Cenário inicial:* Grande festa tradicional da prefeitura de Presidente Dutra-BA sem ponto de contato para centralizar a informação.
+    *   *Cenário final:* Portal oficial consolidado utilizado por toda a região para acompanhar programação em tempo real, galerias e eleição de candidatas.
+    *   *Tecnologias:* Astro, Video Hero, SEO Structuring 100/100.
+    *   *Antes:* Sem site oficial.
+    *   *Depois:* Principal ponto de referência nacional do evento.
+
+3.  **Visconti (Restaurante Gourmet)**
+    *   *Cenário inicial:* Restaurante sofisticado restrito a divulgações orgânicas pelo perfil do Instagram.
+    *   *Cenário final:* Criação de presença digital à altura da cozinha. Cardápio dinâmico interativo totalmente otimizado e sistema para reserva de mesas online, acelerando agendamentos.
+    *   *Tecnologias:* React, Tailwind, Banco de Dados Célula.
+    *   *Antes:* Apenas divulgação no Instagram.
+    *   *Depois:* Cardápio inteligente e reservas 24h operando no piloto automático.
+
+4.  **Untamed (Clínica Médica de Excelência)**
+    *   *Cenário inicial:* Clínica de alto padrão com captação de clientes restrita a recomendações boca-a-boca offline e mídias sociais informais.
+    *   *Cenário final:* Landing page institucional de elite estruturada cirurgicamente com técnicas de neurodesign, copy estratégico e SEO técnico para atração orgânica de pacientes e clientes particulares.
+    *   *Tecnologias:* Tailwind CSS, SEO de Conversão do Google, UI/UX de Alto Padrão.
+    *   *Antes:* Dependência exclusiva de indicação offline tradicional.
+    *   *Depois:* Máquina ativa e moderna de captação de clientes particulares e posicionamento de marca.
+
+5.  **Eventos Formais (Sistema de Convites & RSVP)**
+    *   *Cenário inicial:* Lista manual confusa de confirmação de presença (RSVP) por telefone ou redes sociais em casamentos e festas formais.
+    *   *Cenário final:* Página elegante de convite digital integrado com confirmação online que notifica em tempo real, trazendo máxima rastreabilidade para os organizadores do evento.
+    *   *Tecnologias:* React, Tailwind CSS, Figma Wireframing.
+    *   *Antes:* Confirmação manual caótica via WhatsApp.
+    *   *Depois:* RSVP online automático e centralizado.
+
+6.  **Crarar (Gestão Clínica Veterinária)**
+    *   *Cenário inicial:* Clínica veterinária média com gargalos de registro e fluxo laboratorial executado via fichas físicas e planilhas instáveis.
+    *   *Cenário final:* Sistema completo personalizado para prontuários eletrônicos, cronograma de atendimento, alertas vacinais e controle financeiro ultrarrápido.
+    *   *Tecnologias:* React, Firebase, Tailwind CSS.
+    *   *Antes:* Processo burocrático manual lento no suporte ao pet.
+    *   *Depois:* Prontuário digital e controle vacinal 360° em tempo real.
+
+*   **Chamada para Ação Intermediária 2:**
+    *   *Botão:* "Quero um projeto assim"
+    *   *Mensagem de Apoio:* "Design sob medida focado em velocidade e conversão de elite."
+
+---
+
+### [SEÇÃO 4] DIFERENCIAIS CLAVE (O PADRÃO MÍNIMO DE YAN)
+
+*   **Slogan de Diferencial:** "O que outros vendem como premium, aqui é o padrão mínimo."
+*   **Pilares de Otimização Entregues em Todo Projeto:**
+    1.  **Seu site carrega antes do cliente duvidar:** Um site lento sabota o marketing em segundos. Código limpo nativo garante que as páginas carreguem na velocidade do clique, reduzindo taxas de rejeição imediatamente.
+    2.  **SEO que coloca você no mapa:** Velocidade, meta tags semânticas, schema markup estruturado para o Google e inteligência artificial indexarem o negócio nativamente.
+    3.  **Funciona no celular do seu cliente — sem exceção:** Layouts 100% responsivos adaptados para qualquer tela ou modelo de smartphone, eliminando quebras ou botões inacessíveis.
+    4.  **Entrega real em até 20 dias:** Cronograma rigoroso dividido em sprints semanais, pautado pela comunicação direta e sem enrolação de agência tradicional.
+    5.  **Sem surpresa técnica depois da entrega:** Codificação pura para total liberdade sem depender de dezenas de plugins instáveis ou construtores de arrastar-e-soltar lentos que quebram a cada nova atualização automática do servidor.
+    6.  **Parceria pós-entrega:** Acompanhamento próximo do desenvolvedor para esclarecimento de dúvidas e ajustes diretamente no WhatsApp.
+
+---
+
+### [SEÇÃO 5] FILTRO DE PERFIL E QUALIFICAÇÃO (PARA QUEM É / NÃO É)
+
+*   **Este serviço é para você se:**
+    *   Você tem um negócio real e quer que o Google te encontre de forma consistente.
+    *   Entende profundamente que um site de alta performance para sua empresa é um investimento estratégico de atração, e não apenas um custo.
+    *   Exige rastreamento e resultados mensuráveis (como conversões de telefone ou cliques), e não só uma composição visual estática.
+    *   Preza por prazos cumpridos rigorosamente e uma comunicação clara, humana e descomplicada.
+    *   Está cansado de possuir uma marca prestigiada no mundo real, mas que parece minúscula ou inexistente no topo do Google.
+*   **Este serviço NÃO é para você se:**
+    *   Espera encontrar o desenvolvedor mais barato do mercado de freelas apenas para comparar orçamentos sem critério técnico.
+    *   Deseja "apenas uma págininha rápida e barata" sem qualquer pretensão de otimização orgânica, conversão ou velocidade real.
+    *   Ainda não possui clareza comercial de quais produtos, serviços ou audiência o seu modelo de negócios precisa focar para faturar.
+    *   Busca um resultado orgânico estável no topo do Google em questão de horas de forma milagrosa e imediatista.
+
+*   **Chamada para Ação Intermediária 3:**
+    *   *Botão:* "Quero meu orçamento grátis"
+    *   *Mensagem de Apoio:* "Atendimento humanizado e entrega impecável em até 20 dias."
+
+---
+
+### [SEÇÃO 6] QUEM É YAN CARVALHO (SOBRE, AUTORIDADE EM IA & MÉTRICAS)
+
+*   **História, Autoridade e Foco de Atuação:** Yan Carvalho é Engenheiro da Computação, especialista em performance e a maior autoridade regional e nacional em Inteligência Artificial, desenvolvimento de websites estáticos ultrarrápidos e estratégias implacáveis de SEO técnico sediado em Irecê–Bahia. Com mais de 5 anos de experiência e atuação prática conectando IA de ponta a funis comerciais de alto nível, sua missão principal é resolver de ponta a ponta os problemas crônicos de visibilidade orgânica de clínicas de destaque, escritórios jurídicos de elite, restaurantes e empresas locais diferenciadas.
+*   **Selos de Qualidade Comprovados:**
+    *   *Selo PageSpeed Mobile Superior (nota 95+ Mobile garantida)*
+    *   *Selo de SEO Perfeito (100/100 na indexação de buscas)*
+    *   *Selo Estabilidade & Segurança (CLS zero e HTTPS estruturado)*
+*   **Métricas de Desempenho Estatístico de Yan:**
+    *   **20+** Projetos de Alta Perfomance Entregues ativos e rodando no mercado nacional e regional.
+    *   **5+** Anos de experiência e liderança atuando com Inteligência Artificial, desenvolvimento web e SEO.
+    *   **95+** Pontuação de PageSpeed mínima sustentada em testes móveis oficiais do Google.
+    *   **Disponível** Conexão rápida para contato e atendimento direto via WhatsApp desobstruído de burocracia.
+
+---
+
+### [SEÇÃO 7] DEPOIMENTOS E PROVA SOCIAL
+
+*   **Case de Destaque - Escritório Dra. Nathalie Almeida:**
+    *   *Depoimento Literário da Cliente:* "Em menos de uma semana comecei a receber ligações de clientes que me encontraram pelo Google. Nunca tinha acontecido antes. O site é muito rápido, funciona perfeitamente no celular e já se pagou no primeiro contrato fechado."
+    *   *Ramo de Atuação:* Direito Trabalhista e de Sucessões (Irecê-BA).
+    *   *Ganho Observado:* Atração de novas consultas qualificadas orgânicas, acelerando o retorno do investimento do projeto em poucos dias.
+
+*   **Chamada para Ação Intermediária 4:**
+    *   *Botão:* "Falar com o Yan"
+    *   *Mensagem de Apoio:* "Conecte-se diretamente comigo pelo WhatsApp para tirar suas dúvidas."
+
+---
+
+### [SEÇÃO 8] FLUXO DE PRODUTIVIDADE (COMO FUNCIONA)
+
+A metodologia proprietária entrega um site desenhado por engenharia em três fases estruturadas:
+
+1.  **Etapa 1: Diagnóstico Comercial**
+    *   Alinhamento detalhado do perfil do seu cliente ideal.
+    *   Mapeamento analítico de palavras-chave locais e levantamento de concorrentes para SEO técnico estrutural.
+2.  **Etapa 2: Engenharia de Código & Design**
+    *   Layout sob medida com design limpo e de elite.
+    *   Desenvolvimento personalizado sem uso de templates prontos ineficientes, focando inteiramente na velocidade instantânea.
+3.  **Etapa 3: Estreia & Google Orgânico**
+    *   Configuração especializada do indexador do Google e validações vitais do servidor.
+    *   Início imediato do monitoramento de visitas para colheita rápida de contatos comerciais.
+
+---
+
+### [SEÇÃO 9] RODAPÉ (FOOTER)
+
+*   **Tagline Final:** "Sites que colocam seu negócio no Google e transformam visitas em clientes."
+*   **Canais de Acolhimento Autorizados (Contato Direct):**
+    *   *E-mail comercial:* yancarvalhodev@gmail.com
+    *   *Telefone:* (74) 98824-4384
+    *   *Localização base:* Irecê, Bahia, Brasil.
+
+---
+
+### [SEÇÃO 10] OTIMIZAÇÃO SCHEMA (METADADOS GOOGLE JSON-LD)
+
+```json
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "ProfessionalService",
+      "@id": "https://www.yancarvalho.dev.br/#service",
+      "name": "Yan Carvalho - Criação de Sites de Alta Performance & SEO",
+      "image": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=600&h=840&q=80",
+      "logo": "https://images.unsplash.com/photo-1539571696357-5a69c17a67c6?auto=format&fit=crop&w=150&h=150&q=80",
+      "description": "Engenheiro da Computação, especialista e autoridade com mais de 5 anos de experiência e atuação prática em Inteligência Artificial, SEO técnico e desenvolvimento de websites estáticos de altíssima performance para profissionais liberais, clínicas médicas e empresas locais.",
+      "url": "https://www.yancarvalho.dev.br/",
+      "telephone": "+5574988244384",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Irecê",
+        "addressRegion": "BA",
+        "addressCountry": "BR"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "-11.3033",
+        "longitude": "-41.8558"
+      },
+      "sameAs": [
+        "https://www.instagram.com/yancarvalhodev/",
+        "https://www.linkedin.com/in/yancarvalhodev/"
+      ],
+      "areaServed": ["Irecê", "Presidente Dutra", "Bahia", "Salvador", "Feira de Santana", "Brasil"]
+    }
+  ]
+}
+```
