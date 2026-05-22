@@ -58,13 +58,15 @@ export default function Header() {
         </nav>
 
         <div className="flex items-center gap-3">
-          <button
-            onClick={handleWhatsAppRedirect}
+          <a
+            href={LINKS.whatsappDefault}
+            target="_blank"
+            rel="noopener noreferrer"
             aria-label="Fale diretamente com Yan pelo WhatsApp"
-            className="hidden sm:inline-block px-5 py-2 rounded-full bg-cyan-500 hover:bg-cyan-400 text-white font-bold text-xs tracking-wide transition-all cursor-pointer active:scale-95 shadow-[0_0_15px_rgba(6,182,212,0.25)] focus:outline-none focus:ring-2 focus:ring-cyan-400 focus:ring-offset-2 focus:ring-offset-black"
+            className="hidden sm:inline-block px-5 py-2 rounded-full bg-cyan-500 hover:bg-cyan-400 text-white font-bold text-xs tracking-wide transition-all cursor-pointer active:scale-95 shadow-[0_0_15px_rgba(6,182,212,0.25)] focus:outline-none focus:ring-2 focus:ring-cyan-400 focus:ring-offset-2 focus:ring-offset-black text-center no-underline"
           >
             Fale Comigo
-          </button>
+          </a>
 
           {/* Mobile Menu Button */}
           <button
@@ -124,15 +126,16 @@ export default function Header() {
               </button>
             ))}
             <div className="pt-3 px-3 border-t border-zinc-900/60">
-              <button
-                onClick={() => {
-                  handleWhatsAppRedirect();
-                  setMenuOpen(false);
-                }}
-                className="w-full py-3 rounded-full bg-cyan-500 hover:bg-cyan-400 text-white font-extrabold text-xs tracking-wider uppercase transition-all shadow-md flex items-center justify-center gap-1 focus:outline-none"
+              <a
+                href={LINKS.whatsappDefault}
+                target="_blank"
+                rel="noopener noreferrer"
+                aria-label="Fale diretamente com Yan pelo WhatsApp"
+                className="hidden sm:inline-block px-5 py-2 rounded-full bg-cyan-500 hover:bg-cyan-400 text-white font-bold text-xs tracking-wide transition-all cursor-pointer active:scale-95 shadow-[0_0_15px_rgba(6,182,212,0.25)] focus:outline-none focus:ring-2 focus:ring-cyan-400 focus:ring-offset-2 focus:ring-offset-black text-center no-underline"
               >
                 Fale Comigo
-              </button>
+              </a>
+
             </div>
           </nav>
         </div>
