@@ -1,5 +1,6 @@
 export const getWhatsAppUrl = (messageText: string) => {
-  return `https://wa.me/5574988244384?text=${encodeURIComponent(messageText)}`;
+  // return `https://wa.me/5574988244384?text=${encodeURIComponent(messageText)}`;
+  return `https://:whatsapp.com/send?phone=5574988244384&text=${encodeURIComponent(messageText)}`;
 };
 
 export const LINKS = {
