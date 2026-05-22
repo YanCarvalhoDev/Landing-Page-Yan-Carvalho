@@ -10,7 +10,7 @@ export default defineConfig({
   trailingSlash: "never",
   // build: {
   //   inlineStylesheets: "always",
-  },
+  // },
   vite: {
     plugins: [tailwindcss()],
     resolve: {
